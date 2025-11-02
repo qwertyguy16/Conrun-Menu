@@ -21,12 +21,19 @@ Welcome to the FAQ! Here you can find questions to common questions or find out 
 
 How to add an exclusion to your gorilla tag directory: *This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*
 Step 1: Open Windows Security
+
 Step 2: Click "Virus & threat protection"
+
 Step 3: Click "Manage settings" under "Virus & threat protection settings"
+
 Step 4: Scroll to the bottom until you see "Exclusions". Click on "Add or remove exclusions"
+
 Step 5: Click "Yes" on the prompt
+
 Step 6: CLick "Add an exclusion" and select "Folder"
+
 Step 7: Put the path as "C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag" (This is for gorilla tag on steam.)
+
 And boom! Your done!
 
 
