@@ -4,7 +4,7 @@
 <p>Conrun Menu is a Gorilla Tag mod menu holding many powerful mods to use.</p>
 
 ## Intended use & legal notices
-Conrun Menu uses ii's stupid template for the base of this menu. You can find iidk's work [here](https://github.com/iiDk-the-actual)
+Conrun Menu uses ii's stupid template for the base of this menu. You can find iiDk's work [here.](https://github.com/iiDk-the-actual)
 
 This project is intended for educational purposes only. Conrun will not take **any responsibility** if your Gorilla Tag account is moderated in **any** way.
 
