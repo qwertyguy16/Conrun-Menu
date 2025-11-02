@@ -20,6 +20,8 @@ More to come.
 Welcome to the FAQ! Here you can find questions to common questions or find out how to do something!
 
 How to add an exclusion to your gorilla tag directory: *This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*
+**NOTE: THIS WILL STOP AUTOMATIC ANTIVIRUS DETECTIONS IN YOUR GORILLA TAG DIRECTORY. YOUR WHOLE SYSTEM IS STILL SECURE.**
+
 Step 1: Open Windows Security
 
 Step 2: Click "Virus & threat protection"
