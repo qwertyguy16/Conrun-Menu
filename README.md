@@ -1,8 +1,9 @@
-# Conrun Free Menu©
+# Conrun Free Menu
 Welcome to Conrun, a mod menu for Gorilla Tag by Another Axiom
-Conrun was developed by @qwertyguy__ & @normalspoke on discord.
+Conrun was developed by @qwertyguy__ & @normalspoke on discord and is owned by Cone's Mods.
 
 <i>Note: Any repository or source pretending it is the official is most likely ratted. <strong>ONLY GET CONRUN FROM THIS REPO</strong></i>
+[discord](https://github.com/user-attachments/assets/272f5662-736d-4f92-ae31-f9a0b4c58a46)
 
 # Current Mods:
 **Speed Mods**
@@ -54,4 +55,4 @@ Conrun Menu is **not** affliated with Another Axiom Inc in any way.
 
 **No warranty.** This software is provided “as is”, without warranty of any kind. Use at your own risk.
 
-CONRUN SYSTEMS INC © 2025 
+CONE'S MODS © 2025 
