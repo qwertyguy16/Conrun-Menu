@@ -6,15 +6,14 @@ Conrun was developed by @qwertyguy__ & @normalspoke on discord and is owned by C
 
 Did you know: you should join our discord! <a href="https://discord.gg/mubZrrsGsf" target="_blank"> <img align = top src="https://github.com/user-attachments/assets/b6bdbf1c-843a-4ccb-a3c6-4ad27c4029f2" alt="Join Discord" width="30"> </a>
 
-
 # Current Mods:
-**Speed Mods**
-**Flight Mods**
-**Noclipping Mods**
-**Advantage Mods**
-**Fun Mods**
-**Lucy Mods**
-**Soundboard**
+**Speed Mods**  
+**Flight Mods**  
+**Noclipping Mods**  
+**Advantage Mods**  
+**Fun Mods**  
+**Lucy Mods**  
+**Soundboard**  
 More to come.
 
 # Known Issues
