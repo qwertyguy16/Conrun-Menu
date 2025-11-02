@@ -1,6 +1,7 @@
 # Conrun Free Menu
 Welcome to Conrun, a mod menu for Gorilla Tag by Another Axiom
 Conrun was developed by @qwertyguy__ & @normalspoke on discord.
+
 <i>Note: Any repository or source pretending it is the official is most likely ratted. <strong>ONLY GET CONRUN FROM THIS REPO</strong></i>
 
 # Current Mods:
@@ -17,10 +18,8 @@ More to come.
 1. False Positives with antiviruses. This is due to the menu injecting a DLL into your Gorilla Tag directory, so your antivirus may take that as malicious. Please see the FAQ lower down to see how to add an exlusion to the gorilla tag directory.
 
 # FAQ / Tutorials
-Welcome to the FAQ! Here you can find questions to common questions or find out how to do something!
 
-How to add an exclusion to your gorilla tag directory: *This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*
-**NOTE: THIS WILL STOP AUTOMATIC ANTIVIRUS DETECTIONS IN YOUR GORILLA TAG DIRECTORY. YOUR WHOLE SYSTEM IS STILL SECURE.**
+How to add an exclusion to your gorilla tag directory:
 
 Step 1: Open Windows Security
 
@@ -37,6 +36,9 @@ Step 6: CLick "Add an exclusion" and select "Folder"
 Step 7: Put the path as "C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag" (This is for gorilla tag on steam.)
 
 And boom! Your done!
+
+*This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*
+**NOTE: THIS WILL STOP AUTOMATIC ANTIVIRUS DETECTIONS IN YOUR GORILLA TAG DIRECTORY. YOUR WHOLE SYSTEM IS STILL SECURE.**
 
 
 
