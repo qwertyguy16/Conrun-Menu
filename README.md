@@ -1,4 +1,4 @@
-# Conrun Free Menu
+# Conrun Free Menu©
 Welcome to Conrun, a mod menu for Gorilla Tag by Another Axiom
 Conrun was developed by @qwertyguy__ & @normalspoke on discord.
 
@@ -37,6 +37,7 @@ Step 7: Put the path as "C:\Program Files (x86)\Steam\steamapps\common\Gorilla T
 
 And boom! Your done!
 
+
 *This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*
 
 **NOTE: THIS WILL STOP AUTOMATIC ANTIVIRUS DETECTIONS IN YOUR GORILLA TAG DIRECTORY. YOUR WHOLE SYSTEM IS STILL SECURE.**
@@ -52,3 +53,5 @@ This project is intended for educational purposes only. Conrun will not take **a
 Conrun Menu is **not** affliated with Another Axiom Inc in any way.
 
 **No warranty.** This software is provided “as is”, without warranty of any kind. Use at your own risk.
+
+CONRUN SYSTEMS INC © 2025 
