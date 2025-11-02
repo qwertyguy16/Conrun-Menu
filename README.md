@@ -4,7 +4,7 @@ Conrun was developed by @qwertyguy__ & @normalspoke on discord and is owned by C
 
 <i>Note: Any repository or source pretending it is the official is most likely ratted. <strong>ONLY GET CONRUN FROM THIS REPO</strong></i>
 <a href="https://discord.gg/mubZrrsGsf" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b6bdbf1c-843a-4ccb-a3c6-4ad27c4029f2" alt="Join Discord" width="40">
+    <img align = center src="https://github.com/user-attachments/assets/b6bdbf1c-843a-4ccb-a3c6-4ad27c4029f2" alt="Join Discord" width="40">
 </a>
 
 
