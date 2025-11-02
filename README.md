@@ -3,7 +3,7 @@
 
 ## Intended use & legal notice
 
-This project is intended for educational purposes only. Conrun Menu will not take **any responsibility** if your Gorilla Tag account is moderated in **any** way.
+This project is intended for educational purposes only. Conrun will not take **any responsibility** if your Gorilla Tag account is moderated in **any** way.
 
 Conrun Menu is **not** affliated with Another Axiom Inc in any way.
 
