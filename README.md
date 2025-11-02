@@ -1,6 +1,7 @@
 # Conrun Free Menu
 <p>Welcome to Conrun, a mod menu for Gorilla Tag by Another Axiom</p>
 <p>Conrun was developed by @qwertyguy__ & @normalspoke on discord.</p>
+<i>Note: Any repository or source pretending it is the official is most likely ratted. <strong>ONLY GET CONRUN FROM THIS REPO</strong></i>
 <p>Conrun Menu is a Gorilla Tag mod menu holding many powerful mods to use.</p>
 
 ## Intended use & legal notices
