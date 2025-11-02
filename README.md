@@ -33,8 +33,7 @@ Step 7: Put the path as "C:\Program Files (x86)\Steam\steamapps\common\Gorilla T
 And boom! Your done!
 
 
-*This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*
-
+*This tutorial is for windows defender. If you are using another antivirus please google how to disable it.*  
 **NOTE: THIS WILL STOP AUTOMATIC ANTIVIRUS DETECTIONS IN YOUR GORILLA TAG DIRECTORY. YOUR WHOLE SYSTEM IS STILL SECURE.**
 
 
